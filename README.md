@@ -1,2 +1,2 @@
 # python_automation
-This is a basic Python Automation test Program with Selium Library
+This is a basic Python Automation test Program with Selenium Library
